@@ -11,9 +11,10 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Welcome to my site!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          <a href="https://www.gofinds.org/" rel"dofollow">gofinds</a> is an online media & internet service industry namely <a href="https://www.gofinds.org/" rel"dofollow">Informations, Health, Lifestyle, Finance, Travel and Automotive</a> 
+</code>
         </p>
       </main>
 

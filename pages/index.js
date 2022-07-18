@@ -14,7 +14,6 @@ export default function Home() {
         <Header title="Welcome to my site!" />
         <p className="description">
           <a href="https://www.gofinds.org/" rel"dofollow">gofinds</a> is an online media & internet service industry namely <a href="https://www.gofinds.org/" rel"dofollow">Informations, Health, Lifestyle, Finance, Travel and Automotive</a> 
-</code>
         </p>
       </main>
 
